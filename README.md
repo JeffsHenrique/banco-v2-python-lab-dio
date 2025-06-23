@@ -33,7 +33,7 @@ Você pode testar de duas maneiras:
 
 1) Git clone:
 ```bash
-git clone "https://github.com/JeffsHenrique/banco-python-lab-dio.git"
+git clone "https://github.com/JeffsHenrique/banco-v2-python-lab-dio"
 ```
 
 Depois, basta abrir o terminal:
